@@ -8,14 +8,14 @@
 
 ** Seleccione el tipo de actividad **
 
-🔷Feature []
+🔷Feature [ ]
 
-🔷Changes []
+🔷Changes [ ]
 
-🔷Hotfix  []
+🔷Hotfix  [ ]
 
-🔷Refactor[]
+🔷Refactor [ ]
 
-🔷Performance []
+🔷Performance [ ]
 
-🔷Testing []
+🔷Testing [ ]
